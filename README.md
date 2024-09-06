@@ -14,7 +14,7 @@ This repository is designed to help beginners understand Object-Oriented Program
 8. [Design Principles and Patterns](#design-principles-and-patterns)
 9. [Practical Applications](#practical-applications)
 
-### 1.Introduction to OOP
+### Introduction to OOP
 
 #### **Definition of OOP**
 Object-Oriented Programming (OOP) is a programming paradigm centered around the concept of objects. Objects are instances of classes, which are blueprints for creating entities that encapsulate data (attributes) and behaviors (methods). OOP allows for the modeling of real-world entities in a structured and organized way.
@@ -751,7 +751,7 @@ public class Main {
 
 Here's a more detailed breakdown for the section on **Key OOP Concepts in Java**:
 
-### 7. **Key OOP Concepts in Java**
+### Key OOP Concepts in Java
 
 #### 7.1 **Static vs. Instance Members**
    - **Static Members:**
@@ -878,7 +878,7 @@ This detailed breakdown should help you structure your notes for each of these k
 
 Here’s a breakdown for the section on **Design Principles and Patterns** in your OOP notes:
 
-### 8. **Design Principles and Patterns**
+### Design Principles and Patterns
 
 #### **8.1 SOLID Principles**
 - **S**ingle Responsibility Principle (SRP): 
@@ -989,7 +989,7 @@ This section provides an overview of essential design principles and patterns, a
 
 Here’s how you can structure your notes for the "Practical Applications" section:
 
-### 9. **Practical Applications**
+### Practical Applications
 
 #### 9.1 **Real-world Examples**
    - **Banking System**: 
