@@ -14,7 +14,7 @@ This repository is designed to help beginners understand Object-Oriented Program
 8. [Design Principles and Patterns](#design-principles-and-patterns)
 9. [Practical Applications](#practical-applications)
 
-### Introduction to OOP
+### 1.Introduction to OOP
 
 #### **Definition of OOP**
 Object-Oriented Programming (OOP) is a programming paradigm centered around the concept of objects. Objects are instances of classes, which are blueprints for creating entities that encapsulate data (attributes) and behaviors (methods). OOP allows for the modeling of real-world entities in a structured and organized way.
